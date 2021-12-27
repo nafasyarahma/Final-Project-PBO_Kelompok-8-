@@ -1,6 +1,6 @@
 # Final Project Kelompok 8
 
-# Nama Anggota:
+# Nama Anggota
 1. Yulia Dwi Putri (2017051016)
 2. Nafasya Rahma Safitra (2017051023)
 3. Efida Rahmah (2057051008)
