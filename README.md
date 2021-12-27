@@ -6,12 +6,10 @@
 3. Efida Rahmah (2057051008)
 
 # Pembagian Tugas
-Yulia Dwi Putri
-
-Nafasya Rahma Safitra
-
-Efida Rahmah
+1. Nafasya Rahma Safitra : Perusahaan.java, Nasabah.fxml, NasabahFormController.java
+2. Yulia Dwi Putri : NasabahDataModel.java, DBHelper.java, Individu.java
+3. Efida Rahmah : Nasabah.java, Main.java, Rekening.java
 
 # Deskripsi Program
-Program Koperasi Simpan Pinjam adalah sebuah sistem yang merekam data-data dari para nasabah. Nasabah dapat berupa individu dan perusahaan. Sistem ini memungkinkan untuk menambah nasabah, menambah rekening, serta tarik dan tambah saldo. Database yang digunakan untuk menyimpan data adalah MySQL. Graphic User Interface didesain menggunakan Scene Builder. 
+Sistem yang dapat digunakan untuk melakukan pendataan nasabah koperasi dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening. Nasabah juga dapat menambah dan menarik saldo rekening. Untuk databasenya menggunakan MYSQL. Graphic User Interface didesain menggunakan Scene Builder. 
    
