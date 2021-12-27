@@ -1,4 +1,4 @@
-# Final Project Kelompok 8
+# Final Project PBO Kelompok 8
 
 # Nama Anggota
 1. Yulia Dwi Putri (2017051016)
